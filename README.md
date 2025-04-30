@@ -4,4 +4,4 @@
 
 3.clone โปรเจคลง Visual Studio 2022
 
-4.เข้า sql server management studio ไป copy ชื่อ ของ server และนำไปเปลี่ยนที่ appsettings.json  "DefaultConnection": "Server=______________;Database=bookstoreDb;Trusted_connection=true;TrustServerCertificate=true;"
+4.เข้า sql server management studio ไป copy ชื่อของ server และนำไปเปลี่ยนที่ appsettings.json  "DefaultConnection": "Server=______________;Database=bookstoreDb;Trusted_connection=true;TrustServerCertificate=true;"
